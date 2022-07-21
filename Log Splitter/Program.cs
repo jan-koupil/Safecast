@@ -3,6 +3,8 @@
 
 //prodleva (v sekundách) : -d , jinak vychozich 60 sekund
 
+//build with
+// dotnet publish -p:PublishSingleFile=true -r win-x64 -c Release --self-contained false
 
 using System;
 using System.IO;
