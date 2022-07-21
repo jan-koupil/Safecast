@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Log Splitter": {
+      "commandName": "Project",
+      "commandLineArgs": "-f 24910812.LOG"
+    }
+  }
+}

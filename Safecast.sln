@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32611.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Safecast", "Safecast\Safecast.csproj", "{F4623295-9118-43B8-978E-5C9710602B5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Log Splitter", "Log Splitter\Log Splitter.csproj", "{E0E039FF-DEBB-49A4-8908-7C703F8A0975}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4623295-9118-43B8-978E-5C9710602B5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4623295-9118-43B8-978E-5C9710602B5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4623295-9118-43B8-978E-5C9710602B5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4623295-9118-43B8-978E-5C9710602B5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0E039FF-DEBB-49A4-8908-7C703F8A0975}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0E039FF-DEBB-49A4-8908-7C703F8A0975}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0E039FF-DEBB-49A4-8908-7C703F8A0975}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0E039FF-DEBB-49A4-8908-7C703F8A0975}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDDA0404-44F4-4727-B5D8-FB62BB14A319}
+	EndGlobalSection
+EndGlobal
